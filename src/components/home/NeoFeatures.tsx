@@ -124,7 +124,7 @@ const NeoFeatures: React.FC = () => {
             {/* Use responsive sizing for the image container so it scales on smaller screens */}
             <div className="relative w-64 h-80 sm:w-72 sm:h-96 lg:w-80 lg:h-[420px]">
               <Image
-                src="/image6.png"
+                src="/image6V2.png"
                 alt="Woman using a large phone"
                 fill={false}
                 width={400}
